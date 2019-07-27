@@ -27,5 +27,6 @@
     "husky": "^2.5.0",
     "lerna": "^3.6.0"
   },
-  "version": "7.1.0"
+  "version": "7.1.0",
+  "name": "react-static@slayte"
 }
